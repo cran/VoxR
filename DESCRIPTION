@@ -1,0 +1,15 @@
+Package: VoxR
+Type: Package
+Title: Metrics extraction of trees from T-LiDAR data
+Version: 0.5.1
+Date: 2013-05-28
+Author: Bastien Lecigne, Sylvain Delagrange and Christian Messier
+Maintainer: Bastien Lecigne <lecignebastien@gmail.com>
+Depends: R (>= 2.10)
+Suggests: rgl, raster, sp
+Description: Tools for tree crown structure description based on T-LiDAR data voxelisation
+License: GPL (>= 2.0)
+Packaged: 2014-01-29 18:17:19 UTC; a-young
+NeedsCompilation: no
+Repository: CRAN
+Date/Publication: 2014-01-29 19:30:02
